@@ -1,0 +1,4 @@
+spring:
+  name: company-management
+  profiles:
+    active: local
